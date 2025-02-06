@@ -1,2 +1,2 @@
-# TUSUR_Department-of-Information-Systems-Security
+# TUSUR_Department_of_Information_Systems_Security
 Аутентификация по параметрам динамики простановки подписи на графическом планшете

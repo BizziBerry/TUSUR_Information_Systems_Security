@@ -13,4 +13,3 @@
   сентябрь - декабрь 2022
 ## Контакты
 - Email: anelia.education@yahoo.com
-- Telegram: [@hakunaaa_matataaaaa](https://t.me/hakunaaa_matataaaaa)
